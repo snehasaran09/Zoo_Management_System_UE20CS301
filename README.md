@@ -2,6 +2,7 @@
 A mini project as a part of the course Database Management Systems - UE20CS301. 
 The project consists of an ER Diagram followed by a relational model created from the ER Diagram. 
 The project was done on MySQL workbench using SQL as the query language . 
+
 Zoo Management System is a miniature version of the actual zoo database.This project is based out of my numerous visits to the Bannerughatta National Park , Bengaluru , India.The website of the zoo was taken as a reference to form a few entities and the rest being my assumptions of what a typical zoo database would consist of. It consists of the information regarding the various aspects of the zoo - the animals in the zoo , the animals in the safari , facilities provided the staff details, adoption details, tourist details, etc . 
 A zoo databse enables the efficient management of the resources of a zoo and a consolidated documentation of all the data.
 It consists of the following entities and relations: 
@@ -49,4 +50,9 @@ of the animals visited and the visitor details.
 This is the ER Diagram : 
 
 ![image](https://user-images.githubusercontent.com/73630726/204438207-e78d5df8-fa45-494c-a97c-8699c05ef974.png)
+
+Conversion of the relational model from the ER Diagram : 
+
+![image](https://user-images.githubusercontent.com/73630726/204438468-b71eac14-ad5f-4aec-b8d8-999a81f4415f.png)
+
 
